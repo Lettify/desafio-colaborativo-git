@@ -1,4 +1,4 @@
-# desafio-colaborativo-git
+# Desafio Colaborativo
 
 ## Guia de Estilo do Documento
 
