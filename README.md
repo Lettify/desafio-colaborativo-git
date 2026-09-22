@@ -1,4 +1,4 @@
-# Desafio Colaborativo Git
+# Desafio colaborativo 
 
 # Sobre o repositório
 Repositório para praticar colaboração, controle de versão e revisão de documentos usando Git e GitHub.
@@ -16,6 +16,23 @@ Este repositório funciona como um laboratório prático para exercitar colabora
 - Desenvolvimento de software ou código executável.
 - Discussões não relacionadas ao desafio.
 - Alterações que não seguem o guia de estilo definido.
+
+## Perguntas Frequentes (FAQ)
+
+<details>
+  <summary>Como funciona o fluxo de aprovação de PRs?</summary>
+  <p>Cada Pull Request precisa ser revisado e aprovado por pelo menos um integrante do grupo antes de ser mesclado na branch main.</p>
+</details>
+
+<details>
+  <summary>Como proceder em caso de conflitos de merge?</summary>
+  <p>Caso ocorra um conflito, o responsável pela branch deve atualizar sua branch com as alterações mais recentes da main, resolver as inconsistências localmente e realizar um novo push.</p>
+</details>
+
+<details>
+  <summary>Quais são os horários de alinhamento do grupo?</summary>
+  <p>Nossos alinhamentos síncronos acontecem às terças e quintas-feiras, às 14h, via Discord/Google Meet.</p>
+</details>
 
 ## Objetivo
 
@@ -75,6 +92,7 @@ Leia as instruções antes de iniciar a edição.
 Texto colado sem espaçamento
 * Item 1
 * Item 2
+\`\`\`
 ````
 
 ## Checklist de Revisão
