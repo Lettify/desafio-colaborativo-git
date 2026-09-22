@@ -1,6 +1,21 @@
 # Desafio Colaborativo Git
 
+# Sobre o repositório
 Repositório para praticar colaboração, controle de versão e revisão de documentos usando Git e GitHub.
+Este repositório funciona como um laboratório prático para exercitar colaboração assíncrona e o fluxo de trabalho com Pull Requests. Através de contribuições organizadas, você vivenciará os principais conceitos de versionamento e revisão de código em um ambiente colaborativo.
+
+### Escopo da prática
+
+- Colaboração assíncrona entre múltiplos contribuidores.
+- Prática do fluxo Git: branches, commits e pull requests.
+- Revisão de código e feedback construtivo.
+- Padronização de documentação e estilo de escrita.
+
+### Fora do escopo
+
+- Desenvolvimento de software ou código executável.
+- Discussões não relacionadas ao desafio.
+- Alterações que não seguem o guia de estilo definido.
 
 ## Objetivo
 
