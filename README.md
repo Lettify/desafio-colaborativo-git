@@ -1,3 +1,13 @@
+# Desafio Colaborativo Git
+
+##Sumário
+
+- [Introdução](#desafio-colaborativo-git)
+
+- [Sobre o Projeto](#sobre-o-projeto)
+
+- [Como Contribuir](#como-contribuir)
+
 # Desafio colaborativo 
 
 # Sobre o repositório
@@ -37,6 +47,8 @@ Este repositório funciona como um laboratório prático para exercitar colabora
 ## Objetivo
 
 Manter um documento colaborativo organizado, consistente e fácil de revisar. Cada contribuição deve seguir o padrão de escrita definido neste guia.
+
+[Voltar ao topo](#sumario)
 
 ## Como Participar
 
@@ -104,6 +116,8 @@ Texto colado sem espaçamento
 - [ ] Os links têm descrições claras e estão funcionando.
 - [ ] O texto foi revisado antes do pull request.
 
+[Voltar ao topo](#sumario)
+
 ## Recursos & Ferramentas Úteis
 
 ### Referências de Markdown
@@ -135,3 +149,5 @@ Texto colado sem espaçamento
 | [Issues](https://github.com/Lettify/desafio-colaborativo-git/issues) | Registro e acompanhamento de tarefas, dúvidas e problemas. |
 | [Pull requests](https://github.com/Lettify/desafio-colaborativo-git/pulls) | Revisão e discussão das alterações antes da integração. |
 | [Histórico de commits](https://github.com/Lettify/desafio-colaborativo-git/commits/main/) | Consulta das alterações realizadas na branch principal. |
+
+[Voltar ao topo](#sumario)
