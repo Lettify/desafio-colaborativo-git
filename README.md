@@ -4,6 +4,8 @@
 
 - [Sobre o Projeto](#sobre-o-repositório)
 
+- [Fluxo de Trabalho da Documentação](#fluxo-de-trabalho-da-documentação)
+
 - [Como Contribuir](#como-participar)
 
 - [Recursos & Ferramentas Úteis](#recursos--ferramentas-úteis)
@@ -67,6 +69,31 @@ git add README.md
 git commit -m "docs: atualiza documentação"
 git push -u origin nome-da-branch
 ```
+
+## Fluxo de Trabalho da Documentação
+
+```mermaid
+graph TD
+  A[Escolher uma issue] --> B[Criar uma branch]
+  B --> C[Editar a documentação]
+  C --> D[Revisar e testar]
+  D --> E[Commit e push]
+  E --> F[Abrir pull request]
+  F --> G{Revisão aprovada?}
+  G -- Não --> C
+  G -- Sim --> H[Realizar merge na main]
+```
+
+### Legenda do fluxo
+
+- **Escolher uma issue:** selecione uma tarefa ou dúvida registrada no repositório.
+- **Criar uma branch:** trabalhe isoladamente para manter a `main` estável.
+- **Editar a documentação:** faça a alteração seguindo o guia de estilo.
+- **Revisar e testar:** confira o texto, a formatação e o funcionamento dos links.
+- **Commit e push:** registre a mudança e envie a branch para o GitHub.
+- **Abrir pull request:** apresente a alteração para análise dos demais integrantes.
+- **Revisão aprovada?:** se houver ajustes, atualize a branch e reenvie a alteração.
+- **Realizar merge na main:** integre a contribuição aprovada ao documento principal.
 
 ## Guia de Estilo do Documento
 
