@@ -1,16 +1,14 @@
-# Desafio Colaborativo Git
+# Desafio Colaborativo
 
-##Sumário
+## Sumário
 
-- [Introdução](#desafio-colaborativo-git)
+- [Sobre o Projeto](#sobre-o-repositório)
 
-- [Sobre o Projeto](#sobre-o-projeto)
+- [Como Contribuir](#como-participar)
 
-- [Como Contribuir](#como-contribuir)
+- [Recursos & Ferramentas Úteis](#recursos--ferramentas-úteis)
 
-# Desafio colaborativo 
-
-# Sobre o repositório
+## Sobre o repositório
 Repositório para praticar colaboração, controle de versão e revisão de documentos usando Git e GitHub.
 Este repositório funciona como um laboratório prático para exercitar colaboração assíncrona e o fluxo de trabalho com Pull Requests. Através de contribuições organizadas, você vivenciará os principais conceitos de versionamento e revisão de código em um ambiente colaborativo.
 
@@ -48,7 +46,7 @@ Este repositório funciona como um laboratório prático para exercitar colabora
 
 Manter um documento colaborativo organizado, consistente e fácil de revisar. Cada contribuição deve seguir o padrão de escrita definido neste guia.
 
-[Voltar ao topo](#sumario)
+[Voltar ao topo](#desafio-colaborativo)
 
 ## Como Participar
 
@@ -116,7 +114,7 @@ Texto colado sem espaçamento
 - [ ] Os links têm descrições claras e estão funcionando.
 - [ ] O texto foi revisado antes do pull request.
 
-[Voltar ao topo](#sumario)
+[Voltar ao topo](#desafio-colaborativo)
 
 ## Recursos & Ferramentas Úteis
 
@@ -150,4 +148,4 @@ Texto colado sem espaçamento
 | [Pull requests](https://github.com/Lettify/desafio-colaborativo-git/pulls) | Revisão e discussão das alterações antes da integração. |
 | [Histórico de commits](https://github.com/Lettify/desafio-colaborativo-git/commits/main/) | Consulta das alterações realizadas na branch principal. |
 
-[Voltar ao topo](#sumario)
+[Voltar ao topo](#desafio-colaborativo)
